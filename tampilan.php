@@ -1,6 +1,6 @@
 <?php
 	$x = "Selamat Sore"
-	$y = "Semoga Sukses"
+	$y = "Semoga Sukses Dengan MID-nya"
 	echo $x;
 	echo $y;
 
